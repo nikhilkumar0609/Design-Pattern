@@ -1,3 +1,5 @@
+package SingletonDesignPattern;
+
 import java.util.HashMap;
 
 class LazyCacheService{
