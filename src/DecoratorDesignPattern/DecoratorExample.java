@@ -1,5 +1,8 @@
 package DecoratorDesignPattern;
 
+import DecoratorDesignPattern.Decorator.MochaAddon;
+import DecoratorDesignPattern.Decorator.WhipAddOn;
+
 public class DecoratorExample {
 	
     public static void main(String[] args) {

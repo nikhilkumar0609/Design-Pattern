@@ -1,7 +1,9 @@
-package AmazonNotificationProblem;
+package AmazonNotificationProblem.Observable;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import AmazonNotificationProblem.Observer.NotificationAlertObserver;
 
 public class IphoneStocksObservableImpl implements StocksObservable{
 

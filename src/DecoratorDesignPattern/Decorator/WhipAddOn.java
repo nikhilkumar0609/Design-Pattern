@@ -1,4 +1,6 @@
-package DecoratorDesignPattern;
+package DecoratorDesignPattern.Decorator;
+
+import DecoratorDesignPattern.Beverage;
 
 public class WhipAddOn extends AddonDecorator {
     Beverage beverage;

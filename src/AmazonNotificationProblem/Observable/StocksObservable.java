@@ -1,4 +1,6 @@
-package AmazonNotificationProblem;
+package AmazonNotificationProblem.Observable;
+
+import AmazonNotificationProblem.Observer.NotificationAlertObserver;
 
 public interface StocksObservable {
 	

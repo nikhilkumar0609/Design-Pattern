@@ -1,5 +1,11 @@
 package AmazonNotificationProblem;
 
+import AmazonNotificationProblem.Observable.IphoneStocksObservableImpl;
+import AmazonNotificationProblem.Observable.StocksObservable;
+import AmazonNotificationProblem.Observer.EmailAlertObserverimpl;
+import AmazonNotificationProblem.Observer.NotificationAlertObserver;
+import AmazonNotificationProblem.Observer.PhoneAlertObserverimpl;
+
 public class Store {
 
 	public static void main(String[] args) {

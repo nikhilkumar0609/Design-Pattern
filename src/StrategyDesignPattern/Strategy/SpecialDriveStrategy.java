@@ -1,4 +1,4 @@
-package StrategyDesignPattern;
+package StrategyDesignPattern.Strategy;
 
 public class SpecialDriveStrategy implements DriveStrategy{
 

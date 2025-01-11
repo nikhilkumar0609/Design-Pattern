@@ -1,4 +1,6 @@
-package AmazonNotificationProblem;
+package AmazonNotificationProblem.Observer;
+
+import AmazonNotificationProblem.Observable.StocksObservable;
 
 public class EmailAlertObserverimpl implements NotificationAlertObserver{
 
